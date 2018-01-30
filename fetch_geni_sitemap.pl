@@ -168,6 +168,7 @@ sub user_param {
 }
 
 sub die_hard {
-	print "TBD\n";
+	print "Usage:\n";
+	print "perl fetch_geni_sitemap.pl --output <output file>\n";
 	exit(1);
 }
