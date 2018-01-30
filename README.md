@@ -1,5 +1,5 @@
 # geni-download
-A few scripts to download the data from Geni
+A few scripts to download the data from Geni. ***Users must get myheritage.com permission before any large download of data from Geni.com*** 
 
 ### usage:
 perl fetch_geni_sitemap.pl --output outputs.txt
